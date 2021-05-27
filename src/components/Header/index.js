@@ -13,13 +13,13 @@ const Header = () => (
       <h1 className="title">Wave</h1>
     </div>
     <div>
-      <Link className="route-link" to="/">
+      <Link className="route-link" to="/BlogList">
         Home
       </Link>
-      <Link className="route-link" to="/about">
+      <Link className="route-link" to="/BlogList/about">
         About
       </Link>
-      <Link className="route-link" to="/contact">
+      <Link className="route-link" to="/BlogList/contact">
         Contact
       </Link>
     </div>
