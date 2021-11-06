@@ -8,10 +8,7 @@
 <br/>
 
 
-
-### Add Functionality
-
-The app has the following functionalities
+### The app has the following functionalities
 
 - In the `HomeRoute` blog list is displayed by fetching data (HTTP GET
   request).
